@@ -1,0 +1,19 @@
+{
+  "name": "vue-tiny-virtual-sheet",
+  "version": "0.0.1",
+  "description": "基于虚拟列表的 excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keno-lee/vue-tiny-virtual-sheet.git"
+  },
+  "author": "keno-lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keno-lee/vue-tiny-virtual-sheet/issues"
+  },
+  "homepage": "https://github.com/keno-lee/vue-tiny-virtual-sheet#readme"
+}
